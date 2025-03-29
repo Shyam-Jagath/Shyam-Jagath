@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shyam-Jagath.Shyam-Jagath&left_color=black&right_color=black"  />
+  <img src="https://profile-counter.glitch.me/Shyam-Jagath/count.svg?"  />
 </div>
 
 ###
@@ -66,7 +66,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
- 
+
 ###
 
 <div align="center">
